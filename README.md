@@ -27,10 +27,13 @@ This application provides a highly realistic and interactive simulation of our s
 ## 📸 Screenshots
 
 <div align="center">
-  <img src="screenshots/sc1.png" width="45%" />
-  <img src="screenshots/sc2.png" width="45%" />
-  <img src="screenshots/sc3.png" width="45%" />
-  <img src="screenshots/sc4.png" width="45%" />
+  <img src="screenshots/sc1.png" width="100%" />
+  <br>
+  <img src="screenshots/sc2.png" width="100%" />
+  <br>
+  <img src="screenshots/sc3.png" width="100%" />
+  <br>
+  <img src="screenshots/sc4.png" width="100%" />
 </div>
 
 ---

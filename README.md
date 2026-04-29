@@ -26,8 +26,12 @@ This application provides a highly realistic and interactive simulation of our s
 
 ## 📸 Screenshots
 
-### 🛰️ Main Dashboard
-![Solar System Overview](screenshots/preview.png)
+<div align="center">
+  <img src="screenshots/sc1.png" width="45%" />
+  <img src="screenshots/sc2.png" width="45%" />
+  <img src="screenshots/sc3.png" width="45%" />
+  <img src="screenshots/sc4.png" width="45%" />
+</div>
 
 ---
 
